@@ -8,3 +8,6 @@ add line
 second line added
 
 third line
+
+
+Hello //from NewOne
